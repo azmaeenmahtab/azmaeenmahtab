@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am cuurently a student of CSE at Ahsanullah University of Science and Technology. Also a frontend developer working at upwork and mastering backend development. <br> . 
+I’m a Computer Science and Engineering student at Ahsanullah University of Science and Technology, currently working as a Frontend Developer on Upwork. Alongside frontend expertise, I’m also mastering backend development to become a well-rounded full-stack developer.<br> . 
 
 
 ## 🌐 Socials:
