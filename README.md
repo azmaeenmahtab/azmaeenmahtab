@@ -17,10 +17,11 @@
 ---
 
 ## 📊 GitHub Stats
+<div display="flex">
 ![Azmaeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmaeenmahtab&layout=compact)
-
+</div>
 ---
 
 ## 🏆 GitHub Trophies
