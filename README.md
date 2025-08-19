@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi there 👋, I'm Azmaeen Mahtab  
 
 💻 **Full Stack Developer | CSE Student | Tech Enthusiast**  
+
+---
 
 ## 🚀 Languages and Tools
 <p>
@@ -10,13 +14,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 ![Azmaeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmaeenmahtab&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=azmaeenmahtab)
 
+---
+
 ## 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=azmaeenmahtab&color=blue)
+
+</div>
