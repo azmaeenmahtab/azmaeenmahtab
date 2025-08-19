@@ -17,11 +17,11 @@
 ---
 
 ## 📊 GitHub Stats
-<div display="flex">
-![Azmaeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&show_icons=true&theme=radical" alt="Azmaeen's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmaeenmahtab&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmaeenmahtab&layout=compact)
-</div>
 ---
 
 ## 🏆 GitHub Trophies
