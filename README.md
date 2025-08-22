@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" width="100%" />
+
 # 💫 About Me:
 I’m a Computer Science and Engineering student at Ahsanullah University of Science and Technology, currently working as a Frontend Developer on Upwork. Alongside frontend expertise, I’m also mastering backend development to become a well-rounded full-stack developer.<br>
 
