@@ -7,7 +7,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 ![](https://github-profile-trophy.vercel.app/?username=azmaeenmahtab&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
-[![My Skills](https://skill-icons-plus.vercel.app/icons?i=ts,js,md,html,css,cpp,c,java,firebase,netlify,vercel,render,react,redux,reactrouter,reactquery,socketio,vite,tailwind,apache,nginx,supabase,mysql,mongodb,postgres,figma,framer,canva,git,github,postman,prettier,nvidia,materialui&perline=8)](https://github.com/davidhwilliams/skill-icons-plus)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
