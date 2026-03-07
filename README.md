@@ -13,7 +13,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 ![](https://github-profile-trophy.vercel.app/?username=azmaeenmahtab&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,vite,nodejs,git,github,html,tailwind,materialui,css,mongodb,postgres,supabase,postman,vercel,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c++,react,nextjs,flutter,vite,nodejs,git,github,html,tailwind,materialui,css,mongodb,postgres,supabase,postman,vercel,md,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
