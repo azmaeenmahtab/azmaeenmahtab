@@ -43,6 +43,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 ### 🛠️ Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,md,devto" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="48" />
 </p>
 
 # 📊 GitHub Stats:
