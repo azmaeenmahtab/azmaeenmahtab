@@ -28,6 +28,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 ### ⚙️ Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
 </p>
 
 ### 🗄️ Databases & Backend Services
