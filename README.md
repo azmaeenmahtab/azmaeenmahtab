@@ -12,8 +12,33 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=azmaeenmahtab&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,flutter,vite,nodejs,git,github,html,tailwind,materialui,css,mongodb,postgres,supabase,postman,vercel,md,vscode,devto)](https://skillicons.dev)
+# 💻 Tech Stack
+
+### 🧠 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48"/>
+</p>
+
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,vite,html,css,tailwind,materialui" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### 🗄️ Databases & Backend Services
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,md,devto" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
