@@ -17,8 +17,8 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 ### 🧠 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" />
 </p>
 
 ### 🎨 Frontend Development
@@ -30,7 +30,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" />
 </p>
 
 ### 🗄️ Databases & Backend Services
