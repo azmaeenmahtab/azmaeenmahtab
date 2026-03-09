@@ -10,7 +10,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 4. [Chris Miscellaneous Landing Page](https://chris-miscelaneous-landing-page.vercel.app/)
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack
