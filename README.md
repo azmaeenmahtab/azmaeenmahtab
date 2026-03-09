@@ -9,8 +9,9 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 3. [PRESTIGE - Modern Business Landing Page (Frontend, React)](https://prestige-project-2-0.vercel.app/)
 4. [Chris Miscellaneous Landing Page](https://chris-miscelaneous-landing-page.vercel.app/)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azmaeenmahtab&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack
 
