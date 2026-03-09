@@ -7,8 +7,8 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 1. [Mess Expert - Complete Mess Management System (Full Stack Project)](https://messexpert.vercel.app/)
 2. [SAYEAH BEAUTY - Website Replication (Frontend, NextJS)](https://mads-rosario-nextjs-typescript-tail.vercel.app/)
 3. [PRESTIGE - Modern Business Landing Page (Frontend, React)](https://prestige-project-2-0.vercel.app/)
-4. [Chris Miscellaneous Landing Page](https://chris-miscelaneous-landing-page.vercel.app/)
-5. [Github Issue Tracker](https://azmaeenmahtab.github.io/PH-Fourth-Assignment/)
+4. [Chris Miscellaneous Landing Page (Frontend, React)](https://chris-miscelaneous-landing-page.vercel.app/)
+5. [Job Application Tracker - DOM PROJECT](https://azmaeenmahtab.github.io/PH-Fourth-Assignment/)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
