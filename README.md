@@ -31,13 +31,12 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" />
-
 </p>
 
 ### 🗄️ Databases & Backend Services
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" />
 </p>
 
 ### 🛠️ Tools & Platforms
