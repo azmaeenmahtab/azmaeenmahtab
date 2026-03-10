@@ -11,48 +11,48 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 5. [Job Application Tracker - DOM MASTERY PROJECT](https://azmaeenmahtab.github.io/PH-Fourth-Assignment/)
 6. [Github Issue Tracker - DOM MASTERY PROJECT](https://azmaeenmahtab.github.io/PH-Fifth-Assignment/)
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack
 
-### 🧠 Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" width="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,vite,html,css,tailwind,materialui" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" />
 </p>
 
-### 🗄️ Databases & Backend Services
+### Databases & Backend Services
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,md,devto" />
 <i class="devicon-githubcodespaces-plain colored"></i>
 </p>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=azmaeenmahtab&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahtab.azmaeen.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahtabazmaeen7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmaeen-mahtab-ezaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahtabazmaeen7@gmail.com) 
 
 ---
