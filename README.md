@@ -50,7 +50,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 </p>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&theme=radical&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=azmaeenmahtab&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
