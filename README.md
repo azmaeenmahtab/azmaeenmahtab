@@ -5,9 +5,9 @@
 I’m a Computer Science and Engineering student at Ahsanullah University of Science and Technology, currently working as a Frontend Developer on Upwork. Alongside frontend expertise, I’m also mastering backend development to become a well-rounded full-stack developer.<br>
 
 # My Projects:
-1. [KHUJO - AI Integrated Security System Against Mobile Theft and SecondHand Market Syndicate](https://khujo.vercel.app/)
-2. [Mess Expert - Complete Mess Management System (Full Stack Project)](https://messexpert.vercel.app/)
-3. [SAYEAH BEAUTY - Website Replication (Frontend, NextJS)](https://sayeah-beauty-one.vercel.app/)
+1. [KHUJO - AI Integrated Security System Against Mobile Theft and SecondHand Market Syndicate - SOLVIO AI Hackathon Project](https://khujo.vercel.app/)
+2. [Mess Expert - Complete Mess Management System (Full Stack Project) - Bootcamp Final Project](https://messexpert.vercel.app/)
+3. [SAYEAH BEAUTY - Website Replication (Frontend, NextJS) - Client Project](https://sayeah-beauty-one.vercel.app/)
 4. [PRESTIGE - Modern Business Landing Page (Frontend, React)](https://prestige-project-2-0.vercel.app/)
 5. [Chris Miscellaneous Landing Page (Frontend, React) - Client Project](https://chris-miscelaneous-landing-page.vercel.app/)
 6. [Job Application Tracker - DOM MASTERY PROJECT](https://azmaeenmahtab.github.io/PH-Fourth-Assignment/)
