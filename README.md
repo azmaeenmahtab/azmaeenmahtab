@@ -50,9 +50,7 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 </p>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=azmaeenmahtab&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmaeenmahtab&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=azmaeenmahtab&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=499)](https://git.io/streak-stats)
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahtab.azmaeen.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahtabazmaeen7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmaeen-mahtab-ezaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahtabazmaeen7@gmail.com) 
