@@ -13,9 +13,6 @@ I’m a Computer Science and Engineering student at Ahsanullah University of Sci
 6. [Job Application Tracker - DOM MASTERY PROJECT](https://azmaeenmahtab.github.io/PH-Fourth-Assignment/)
 7. [Github Issue Tracker - DOM MASTERY PROJECT](https://azmaeenmahtab.github.io/PH-Fifth-Assignment/)
 
-# GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 # 💻 Tech Stack
 
 ### Languages
